@@ -39,7 +39,7 @@ Drop the ChatView in your XML layout as is shown below:
 <co.intentservice.chatui.ChatView
 	android:id="@+id/chat_view"
 	android:layout_width="match_parent"
-	android:layout_height="match_parents"
+	android:layout_height="match_parent"
 	<!-- Insert customisation options here -->
 />
 ```
